@@ -85,4 +85,8 @@ The system identified repeated login attempts within a short period, which is a 
 ✅ Successfully configured Wazuh Agent on an kali machine for SSH monitoring.   
 ✅ Simulated SSH brute-force attacks using Hydra.   
 ✅ Detected brute-force attempts in Wazuh logs and alerts.   
-✅ Learned how SOC analysts investigate authentication attacks using SIEM tools.   
+✅ Learned how SOC analysts investigate authentication attacks using SIEM tools.  
+
+## Screenshots
+
+https://github.com/Subeen-bit/LOG-ANALYSIS-USING-WAZUH-SSH-BRUTE-FORCE-Attack-Detection-/blob/main/Screenshot%202026-06-09%20222636.png

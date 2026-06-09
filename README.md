@@ -90,3 +90,5 @@ The system identified repeated login attempts within a short period, which is a 
 ## Screenshots
 
 https://github.com/Subeen-bit/LOG-ANALYSIS-USING-WAZUH-SSH-BRUTE-FORCE-Attack-Detection-/blob/main/Screenshot%202026-06-09%20222636.png
+
+https://github.com/Subeen-bit/LOG-ANALYSIS-USING-WAZUH-SSH-BRUTE-FORCE-Attack-Detection-/blob/main/Screenshot%202026-06-09%20222712.png
